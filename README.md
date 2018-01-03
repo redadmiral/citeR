@@ -12,7 +12,7 @@ chmod 755 cite.R
 ```
 3. For more convenient usage I advise you to set an alias:
 ```
-printf "#citeR\nalias cite='Rscript --vanilla /path/to/cite.R'"
+printf "#citeR\nalias cite='Rscript --vanilla /path/to/cite.R'" >> ~/.bashrc
 ```
 
 ### Amazon Credentials
